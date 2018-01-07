@@ -1,3 +1,3 @@
 # jsClock
-JS clock app
+JS clock app _ 
 App to test and implement simple JS code
